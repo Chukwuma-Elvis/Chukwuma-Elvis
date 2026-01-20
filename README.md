@@ -1,16 +1,17 @@
-## Hi there 👋
+<div align="center">
+  <h1>Hi there! I'm Chukwuma Elvis 👋</h1>
+  <h3>Data Analyst & Aspiring Machine Learning Engineer</h3>
+</div>
 
-<!--
-**Chukwuma-Elvis/Chukwuma-Elvis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://www.linkedin.com/in/your-profile">LinkedIn</a> •
+  <a href="mailto:your.email@gmail.com">Email</a> •
+  Lagos, Nigeria
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+Python • SQL • Pandas • NumPy • Scikit-learn • Matplotlib/Seaborn/Plotly  
+Power BI / Tableau • Jupyter • Git • Excel → Google Sheets  
+(learning: TensorFlow/PyTorch, Spark, AWS/GCP basics)
