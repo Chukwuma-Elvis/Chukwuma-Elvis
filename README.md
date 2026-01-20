@@ -4,7 +4,7 @@
 </div>
 
 <p align="center">
-  ##<a href="https://www.linkedin.com/in/your-profile">LinkedIn</a> •
+  <!-- <a href="https://www.linkedin.com/in/your-profile">LinkedIn</a> • -->
   <a href="mailto:chukwuma1497@gmail.com">Email</a> •
   Lagos, Nigeria
 </p>
