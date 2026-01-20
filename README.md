@@ -15,3 +15,5 @@
 Python • SQL • Pandas • NumPy • Scikit-learn • Matplotlib/Seaborn/Plotly  
 Power BI / Tableau • Jupyter • Git • Excel → Google Sheets  
 (learning: TensorFlow/PyTorch, Spark, AWS/GCP basics)
+
+Always learning, open to collaboration, and excited about turning data into decisions!
