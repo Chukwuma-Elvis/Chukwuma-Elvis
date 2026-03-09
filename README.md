@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a56db,50:7e3af2,100=057a55&height=200&section=header&text=Chukwuma%20Elvis&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Data%20Analyst%20%7C%20ML%20Engineer%20%7C%20Building%20with%20Data&descSize=18&descAlignY=60&animation=fadeIn" />
 
 <!-- Typing animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1A56DB&center=true&vCenter=true&width=600&lines=Turning+raw+data+into+real+decisions;Building+ML+models+that+ship+to+production;Self-taught+%7C+Always+learning+and+Always+building;Open+to+remote+opportunities+worldwide)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1A56DB&center=true&vCenter=true&width=600&lines=Turning+raw+data+into+real+decisions;Building+ML+models+that+ship+to+production;Self-taught+Always+learning+and+Always+building;Open+to+remote+opportunities+worldwide)](https://git.io/typing-svg)
 
 <br/>
 
